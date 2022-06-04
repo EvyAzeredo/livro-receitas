@@ -10,7 +10,7 @@ Olá! Bem vindos ao meu livro de receitas :blush:
 
 ##### Nota
 
-Todas as receitas são adaptáveis, use a imaginação :happy:
+Todas as receitas são adaptáveis, use a imaginação
 
 
 
