@@ -1,9 +1,5 @@
 # Antepasto de berinjela :eggplant:
 
-![OIP (4)](C:\Users\evely\OneDrive\Imagens\OIP (4).jpg) 
-
-
-
 ### Ingredientes
 
 - 1kg de berinjela sem casca em cubos ou em tiras

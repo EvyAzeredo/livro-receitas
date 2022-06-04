@@ -1,7 +1,5 @@
 # Pudim de leite :heart_eyes:
 
-![OIP (2)](C:\Users\evely\OneDrive\Imagens\OIP (2).jpg) 
-
 ###  Ingredientes
 
 - 2 caixas de leite condensado 
@@ -11,10 +9,7 @@
 ##### calda
 
 - 1 xicara de açúcar 
-
 - 1/2 xicara de água quente
-
-  
 
 ### Modo de preparo
 

@@ -1,7 +1,5 @@
 # Escondidinho de camarão :shrimp:
 
-![OIP](C:\Users\evely\OneDrive\Imagens\OIP.jpg) 
-
 ### Ingredientes
 
 - 500g de camarão descascado e limpo

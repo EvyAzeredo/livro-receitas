@@ -1,9 +1,5 @@
 # Lasanha de Berinjela :eggplant:
 
-![OIP (3)](C:\Users\evely\OneDrive\Imagens\OIP (3).jpg) 
-
-
-
 ### Ingredientes
 
 - 4 unidades de berinjela 

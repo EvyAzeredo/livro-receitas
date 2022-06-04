@@ -1,9 +1,5 @@
 # Batida de maracujá :cocktail:
 
-![9d22ab17d6fd768ab33e8b5683d217a7](C:\Users\evely\OneDrive\Imagens\9d22ab17d6fd768ab33e8b5683d217a7.jpg) 
-
-
-
 ### Ingredientes
 
 - 5 maracujás
